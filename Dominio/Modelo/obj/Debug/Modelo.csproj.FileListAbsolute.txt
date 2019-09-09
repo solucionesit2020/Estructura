@@ -1,0 +1,6 @@
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Dominio\Modelo\bin\Debug\Modelo.dll
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Dominio\Modelo\bin\Debug\Modelo.pdb
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Dominio\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Dominio\Modelo\obj\Debug\Modelo.dll
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Dominio\Modelo\obj\Debug\Modelo.pdb
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Dominio\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache

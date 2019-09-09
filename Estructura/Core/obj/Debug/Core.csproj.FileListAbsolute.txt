@@ -1,0 +1,15 @@
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Estructura\Core\bin\Debug\Core.dll.config
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Estructura\Core\bin\Debug\Core.dll
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Estructura\Core\bin\Debug\Core.pdb
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Estructura\Core\bin\Debug\EntityFramework.dll
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Estructura\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Estructura\Core\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Estructura\Core\bin\Debug\System.Data.SqlServerCe.dll
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Estructura\Core\bin\Debug\EntityFramework.xml
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Estructura\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Estructura\Core\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Estructura\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Estructura\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Estructura\Core\obj\Debug\Core.dll
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Estructura\Core\obj\Debug\Core.pdb
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Estructura\Core\obj\Debug\Core.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Dominio\Servicio\bin\Debug\Servicio.dll
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Dominio\Servicio\bin\Debug\Servicio.pdb
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Dominio\Servicio\bin\Debug\Core.dll
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Dominio\Servicio\bin\Debug\Modelo.dll
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Dominio\Servicio\bin\Debug\Repositorio.dll
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Dominio\Servicio\bin\Debug\EntityFramework.dll
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Dominio\Servicio\bin\Debug\Core.pdb
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Dominio\Servicio\bin\Debug\Core.dll.config
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Dominio\Servicio\bin\Debug\Modelo.pdb
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Dominio\Servicio\bin\Debug\Repositorio.pdb
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Dominio\Servicio\bin\Debug\EntityFramework.xml
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Dominio\Servicio\obj\Debug\Servicio.csprojAssemblyReference.cache
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Dominio\Servicio\obj\Debug\Servicio.csproj.CoreCompileInputs.cache
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Dominio\Servicio\obj\Debug\Servicio.csproj.CopyComplete
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Dominio\Servicio\obj\Debug\Servicio.dll
+C:\Desarrollos\Repositorios\ExamenAxxys\Axxys\Dominio\Servicio\obj\Debug\Servicio.pdb

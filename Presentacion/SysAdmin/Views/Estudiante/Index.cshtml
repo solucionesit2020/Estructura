@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Modelo.EstudianteModel>
+@using SysAdmin.Models
+@using SysAdmin.Code
+
+<br />
+<br />
+
+<div class="panel panel-primary">
+    <div class="panel-heading panel-head">Estudiantes</div>
+    <div class="panel-body">
+        <div class="btn-group">
+            <a id="createEditStudentModal" data-toggle="modal" href="@Url.Action("AddEditEstudiante")" data-target="#modal-action-estudiante" class="btn btn-primary">
+                <i class="glyphicon glyphicon-plus"></i>  Agregar Estudiante
+            </a>
+        </div>
+        <div class="top-buffer"></div>
+        <table class="table table-bordered table-striped table-condensed">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th>No Identificación</th>
+                    <th>Email</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.NombreCompleto</td>
+                        <td>@item.NoIdentificacion</td>
+                        <td>@item.Email</td>
+                        <td>
+                            <a id="editUserModal" data-toggle="modal" href="@Url.Action("AddEditEstudiante", new {id=@item.Id })" data-target="#modal-action-estudiante" class="btn btn-info">
+                                <i class="glyphicon glyphicon-pencil"></i>  Editar
+                            </a>
+                            <a id="deleteUserModal" data-toggle="modal" href="@Url.Action("DeleteEstudiante", new {id=@item.Id })" data-target="#modal-action-estudiante" class="btn btn-danger">
+                                <i class="glyphicon glyphicon-trash"></i>  Borrar
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+@Html.Partial("_Modal", new BootstrapModel { ID = "modal-action-estudiante", AreaLabeledId = "modal-action-estudiante-label", Size = ModalSize.Medium })
+@section scripts{
+    @Scripts.Render("~/Scripts/modal-index.js")
+}
+

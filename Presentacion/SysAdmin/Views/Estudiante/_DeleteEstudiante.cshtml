@@ -1,0 +1,13 @@
+﻿@model Modelo.EstudianteModel
+@using SysAdmin.Models
+
+@using (Html.BeginForm())
+{
+    @Html.Partial("_ModalHeader", new ModalHeader { Heading = "Borrar Estudiate" })
+
+    <div class="modal-body form-horizontal">
+        Esta seguro de borrar a @Model.NombreCompleto?
+    </div>
+    @Html.Partial("_ModalFooter", new ModalFooter { SubmitButtonText = "Borrar" })
+}
+
